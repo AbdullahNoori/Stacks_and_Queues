@@ -2,7 +2,6 @@
 
 from linkedlist import LinkedList
 
-
 # Implement LinkedStack below, then change the assignment at the bottom
 # to use this Stack implementation to verify it passes all tests
 class LinkedStack(object):
